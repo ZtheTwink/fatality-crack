@@ -7,3 +7,5 @@ reuploaded from src by Z
 <p><strong>This was NOT checked for RATs.</strong></p>
 <p><strong>USE AT YOUR OWN RISK.</strong></p>
 <p><strong>ANY ISSUES YOU HAVE TO FIX YOURSELF AND IS NOT MY ISSUE.</strong></p>
+
+do you also not trust the prebuilt loader from the discord? then use mine built from the src

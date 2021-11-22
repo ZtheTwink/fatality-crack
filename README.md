@@ -1,2 +1,5 @@
-# fatality-crack-stuff
-stuff for and from the new fatality crack 2021
+
+<p align="center">
+  <a href="https://github.com/Zvakun">
+    <img src="https://fatality.win/styles/vigas/img/fatality.gif" />
+     </a>

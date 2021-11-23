@@ -10,7 +10,7 @@ reuploaded from src by Z
 
 do you also not trust the prebuilt loader from the discord? then use mine built from the src
 
-|
+ |
 |  
 |  
 |  

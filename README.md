@@ -17,6 +17,6 @@ do you also not trust the prebuilt loader from the discord? then use mine built 
   
 
   
-  
-this account has been token logged 令牌记录 by unixian please buy fagality 请购买fagality to avoid token logged account 令牌记录
+<p><strong>this account has been token logged 令牌记录 by unixian please buy fagality 请购买fagality to avoid token logged account 令牌记录</strong></p>  
+
 (joke)

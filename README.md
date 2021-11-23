@@ -8,9 +8,8 @@ reuploaded from src by Z
 <p><strong>USE AT YOUR OWN RISK.</strong></p>
 <p><strong>ANY ISSUES YOU HAVE TO FIX YOURSELF AND IS NOT MY ISSUE.</strong></p>
 
-do you also not trust the prebuilt loader from the discord? then use mine built from the src
-This github has the loader, the dlls added to C:\Windows\SysWOW64 when its loaded, luas, and the original src
- 
+<p>do you also not trust the prebuilt loader from the discord? then use mine built from the src<p>
+<p>This github has the loader, the dlls added to C:\Windows\SysWOW64 when its loaded, luas, and the original src<p>
  |  
  |  
  |  

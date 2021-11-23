@@ -11,6 +11,8 @@ reuploaded from src by Z
 
 <p>do you also not trust the prebuilt loader from the discord? then use mine built from the src<p>
 <p>This github has the loader, luas, configs, and the original src<p>
+<p>configs go in \common\Counter-Strike Global Offensive<p>
+<p>luas go in \common\Counter-Strike Global Offensive\lua<p>
 <p> |  <p>
 <p> |  <p>
 <p> |  <p>

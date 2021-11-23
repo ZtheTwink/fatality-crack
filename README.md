@@ -9,7 +9,7 @@ reuploaded from src by Z
 <p><strong>ANY ISSUES YOU HAVE TO FIX YOURSELF AND IS NOT MY ISSUE.</strong></p>
 
 <p>do you also not trust the prebuilt loader from the discord? then use mine built from the src<p>
-<p>This github has the loader, luas, and the original src<p>
+<p>This github has the loader, luas, configs, and the original src<p>
 <p> |  <p>
 <p> |  <p>
 <p> |  <p>

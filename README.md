@@ -8,11 +8,11 @@ reuploaded from src by Z
 <p><strong>This was NOT checked for RATs.</strong></p>
 <p><strong>USE AT YOUR OWN RISK.</strong></p>
 <p><strong>ANY ISSUES YOU HAVE TO FIX YOURSELF AND IS NOT MY ISSUE.</strong></p>
-<p> |  <p>
+<p><strong>| Loader Versions</strong><p>
 <p>Loader v1 is the first version of the loader released by Unixian<p>
 <p>Loader v2 is the second version of the loader released by Unixian that includes the legacy build of Fatality and many other improved features and fixes to things like crashes<p>
 <p>Loader update is my personal build of the crack with many improvements<p>
-<p> |  <p>
+<p><strong>| Github Contents</strong><p>
 <p>This github has the loader, luas, configs, and the original src<p>
 <p>configs go in \common\Counter-Strike Global Offensive<p>
 <p>luas go in \common\Counter-Strike Global Offensive\lua<p>

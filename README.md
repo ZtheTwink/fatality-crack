@@ -10,6 +10,7 @@ reuploaded from src by Z
 <p><strong>ANY ISSUES YOU HAVE TO FIX YOURSELF AND IS NOT MY ISSUE.</strong></p>
 <p>Loader v1 is the first version of the loader released by Unixian<p>
 <p>Loader v2 is the second version of the loader released by Unixian that includes the legacy build of Fatality and many other improved features and fixes to things like crashes<p>
+ <p>Loader update is my personal build of the crack with many improvements<p>
 
  
 <p>do you also not trust the prebuilt loader from the discord? then use mine built from the src<p>

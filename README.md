@@ -13,7 +13,8 @@ reuploaded from src by Z
 <p>configs go in \common\Counter-Strike Global Offensive<p>
 <p>luas go in \common\Counter-Strike Global Offensive\lua<p>
 <p><strong>| Media</strong><p>
-https://www.youtube.com/embed/eWk9hEWXoaE
+[Cool](https://img.youtube.com/vi/eWk9hEWXoaE/0.jpg)](https://www.youtube.com/watch?v=eWk9hEWXoaE)
+</object>
 <p> |  <p>
 <p> |  <p>
 <p> |  <p>

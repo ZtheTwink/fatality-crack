@@ -13,7 +13,10 @@ reuploaded from src by Z
 <p>configs go in \common\Counter-Strike Global Offensive<p>
 <p>luas go in \common\Counter-Strike Global Offensive\lua<p>
 <p><strong>| Media</strong><p>
-https://www.youtube.com/watch?v=eWk9hEWXoaE
+ <p align="center">
+  <a href="https://github.com/ZtheTwink/fatality-crack/">
+    <img src="https://cdn.upload.systems/uploads/FNR5CgMG.png" />
+     </a>
 <p> |  <p>
 <p> |  <p>
 <p> |  <p>

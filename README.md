@@ -1,5 +1,5 @@
 
-# Fatality Crack by Unixian
+# Fatality Crack by Unixian (broken currently)
 reuploaded from src by Z
 
 <h2 style="color: #5e9ca0; text-align: center;"><strong>Fatality Crack by Unixian - built src by Z</strong></h2>

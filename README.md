@@ -32,6 +32,3 @@ reuploaded from src by Z
 <p><strong>This was NOT checked for RATs.</strong></p>
 <p><strong>USE AT YOUR OWN RISK.</strong></p>
 <p><strong>ANY ISSUES YOU HAVE TO FIX YOURSELF AND IS NOT MY ISSUE.</strong></p>
-<p><strong>this account has been token logged 令牌记录 by unixian please buy fagality 请购买fagality to avoid token logged account 令牌记录</strong></p>  
-
-(joke)

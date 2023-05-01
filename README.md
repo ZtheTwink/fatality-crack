@@ -17,18 +17,4 @@ reuploaded from src by Z
   <a href="https://github.com/ZtheTwink/fatality-crack/">
     <img src="https://cdn.upload.systems/uploads/FNR5CgMG.png" />
      </a>
- <p>click image below for youtube video<p>
-   <a href="https://www.youtube.com/watch?v=fXIDACTip5A">
-    <img src="https://cdn.upload.systems/uploads/Z1H0MclE.jpg" />
-     </a>
 <p> |  <p>
-<p> |  <p>
-<p> |  <p>
-<p> |  <p>
-<p> |  <p>
-<p> |  <p>
-<p> |  <p>
-<p><strong>SRC Converted to Build Tools v142</strong></p>
-<p><strong>This was NOT checked for RATs.</strong></p>
-<p><strong>USE AT YOUR OWN RISK.</strong></p>
-<p><strong>ANY ISSUES YOU HAVE TO FIX YOURSELF AND IS NOT MY ISSUE.</strong></p>
